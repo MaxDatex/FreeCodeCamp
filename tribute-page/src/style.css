@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+}
+
+#main {
+  background-color: lightgray;
+  border-radius: 5px;
+  margin: 15px;
+  padding: 10px;
+}
+
+#img-div {
+  padding: 20px;
+  background: white;
+  border-radius: 2px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 20px auto;
+}
+
+#img-caption {
+  margin: 15px 0px 5px 0px;
+}
+
+#tribute-title {
+  text-align: center;
+}
+
+#tribute-info {
+  margin: 0 auto;
+  max-width: 500px;
+  text-align: justify;
+  line-height: 1.7;
+}
+
+#tribute-info li {
+  margin: 10px 0;
+}
+
+
+
